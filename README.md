@@ -11,5 +11,5 @@
  - Create test cases for Add Customer functionality 
 ### Solution :
 #### [Requirements analysis (RU)](guru99_telecom_requirements.pdf)
-#### [Check list (RU)](checklist_ru.pdf) | [Check list (EN)](checklist_ru.pdf)
+#### [Check list (RU)](checklist_ru.pdf) | [Check list (EN)](checklist_en.pdf)
 #### [Test Cases (RU)](test_cases.pdf)
