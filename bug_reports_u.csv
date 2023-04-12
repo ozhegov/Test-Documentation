@@ -1,6 +1,6 @@
 ﻿№;Title;Steps To Reproduce;Expected Result;Actual Result;Severity;Issue Type;Frequency
 1;"macOS Mojave 10.14.6 - Homepage - Impossible to login because ""Sign In"" button reloads the page";"1. Open NDA testing website
-2. Click on ""Sign In' in the header
+2. Click on ""Sign In"" in the header
 3. Click on ""create an account""
 4. Fill all the required information
 5. Click on the ""Create account"" button
