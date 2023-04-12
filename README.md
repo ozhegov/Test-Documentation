@@ -1,8 +1,8 @@
 # Test Documentation
 
 ## Bug reports
-#### [uTest (EN)](bug_reports_u.csv)
-#### [vk.com (RU)](bug_reports_vk.csv)
+#### [uTest (EN)](bug_reports_u.pdf)
+#### [vk.com (RU)](bug_reports_vk.pdf)
 
 ## Requirements analysis, check lists, test cases
 ### Task:
