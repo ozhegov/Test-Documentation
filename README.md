@@ -7,8 +7,8 @@
 ## Requirements analysis, check lists, test cases
 ### Task:
  - Analyze the requirements, add all inconsistencies and additional questions on them
- - Create a checklist for the main page
- - Create test cases for Add Customer functionality 
+ - Create a checklist for [the main page](https://demo.guru99.com/telecom/index.html)
+ - Create test cases for [Add Customer functionality](https://demo.guru99.com/telecom/addcustomer.php)
 ### Solution :
 #### [Requirements analysis (RU)](guru99_telecom_requirements.pdf)
 #### [Check list (RU)](checklist_ru.pdf) | [Check list (EN)](checklist_en.pdf)
